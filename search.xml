@@ -56,9 +56,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -67,11 +67,11 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="歌单介绍"><a href="#歌单介绍" class="headerlink" title="歌单介绍"></a>歌单介绍</h1><p><code>&lt;font color=#0c74d6 size=4 face=&quot;黑体&quot;&gt;刘大壮&lt;/font&gt;</code></p><h1 id="歌单格式"><a href="#歌单格式" class="headerlink" title="歌单格式"></a>歌单格式</h1><p><code>&#123;% meting "810482" "kugou" "artist" "theme:#3F51B5" "mutex:true" "preload:auto" %&#125;</code><br><br><br><br> # 换行<br><br><br><code>&lt;font color=#0c74d6 size=4 face=&quot;黑体&quot;&gt;</code>南方凯<code>&lt;/font&gt;</code><br><code>&#123;% meting "985181" "kugou" "artist" "theme:#3F51B5" "mutex:true" "preload:auto" %&#125;</code><br><br><br><br><br><br><br><code>&#123;% meting "7422861869" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%&#125;</code></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -89,20 +89,20 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="歌单介绍"><a href="#歌单介绍" class="headerlink" title="歌单介绍"></a>歌单介绍</h1><p><code>&lt;font color=#0c74d6 size=4 face=&quot;黑体&quot;&gt;刘大壮&lt;/font&gt;</code></p><h1 id="歌单格式"><a href="#歌单格式" class="headerlink" title="歌单格式"></a>歌单格式</h1><p><code>&#123;% meting "810482" "kugou" "artist" "theme:#3F51B5" "mutex:true" "preload:auto" %&#125;</code><br><br><br><br> # 换行<br><br><br><code>&lt;font color=#0c74d6 size=4 face=&quot;黑体&quot;&gt;</code>南方凯<code>&lt;/font&gt;</code><br><code>&#123;% meting "985181" "kugou" "artist" "theme:#3F51B5" "mutex:true" "preload:auto" %&#125;</code><br><br><br><br><br><br><br><code>&#123;% meting "7422861869" "netease" "playlist" "autoplay" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%&#125;</code></p>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
